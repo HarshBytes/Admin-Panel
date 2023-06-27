@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493809284184",
+    "project_id": "adminpanel-8d5b3",
+    "storage_bucket": "adminpanel-8d5b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493809284184:android:dc4dbda9fb2d6e8cbcc62d",
+        "android_client_info": {
+          "package_name": "com.example.adminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493809284184-8m0sj5j4qbk0r0dsmrrlp4auo2osp5oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUP0OT1nZibpGI6FIyUcFzML09-f2Qxh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493809284184-8m0sj5j4qbk0r0dsmrrlp4auo2osp5oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
